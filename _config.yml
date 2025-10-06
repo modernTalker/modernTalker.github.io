@@ -7,7 +7,7 @@ first_name: Egor
 middle_name: ""
 last_name: Petrov
 contact_note: >
-  Machine Learning Researcher at Yandex Research.
+  Machine Learning Research Resident at Yandex Research.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Research on efficient deep learning, scaling laws, first- and zero-order optimization, and large-scale training systems.
 footer_text: >
