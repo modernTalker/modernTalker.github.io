@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://moderntalker.github.io/sitemap.xml
