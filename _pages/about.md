@@ -6,7 +6,7 @@ subtitle: Machine Learning Researcher at Yandex Research
 
 profile:
   align: right
-  image: assets/img/profile.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ML Research Residency, Yandex Research</p>
