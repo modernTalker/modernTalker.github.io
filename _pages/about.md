@@ -36,4 +36,4 @@ My engineering experience at **Yandex (Personalization R&D)**—where I accelera
 
 Today, these threads converge in my work on **asynchronous pipeline parallelism** and **multi-cluster learning**, where theoretical insight and systems engineering must co-evolve to scale AI responsibly.
 
-<a href="/publications/">Publications</a> • <a href="/projects/">Projects</a> • <a href="https://github.com/modernTalker/ZO-Library">ZO-Library</a>
+<a href="/publications/">Publications</a> • <a href="/projects/">Projects</a> • <a href="https://github.com/modernTalker/zero-order-optimization/tree/dev">ZO-Library</a>
