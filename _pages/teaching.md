@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-## Teaching Experience
-
 ### Department of Algorithms and Programming Technologies, MIPT
 
 **Position:** Teaching Assistant  
@@ -36,7 +34,7 @@ nav_order: 6
 
 **Department/Team:** "Introduction to AI" program, "Scientific Studio" and "Python"
 **Project:** Teaching and grading assignments  
-**Subjects:** Introduction to AI, Python (for Master Students)
+**Subjects:** Introduction to AI, Scientific Studio, Python (for Master Students)
 
 **Responsibilities:**
 
@@ -48,3 +46,5 @@ nav_order: 6
 
 - Enhanced the quality of feedback, improving students' understanding of the material.
 - Prepared students for participation in scientific conferences and presentation of selected papers.
+
+**Tech Stack:** PyTorch, Pandas, Numpy, Sklearn, Matplotlib

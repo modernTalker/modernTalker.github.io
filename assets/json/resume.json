@@ -1,200 +1,211 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Egor Petrov",
+    "label": "Machine Learning Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "petrov.egor.d@phystech.edu",
+    "phone": "",
+    "url": "https://moderntalker.github.io",
+    "summary": "Machine Learning Research Resident at Yandex Research. Research on efficient deep learning, scaling laws, optimization, and large-scale training systems.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Moscow",
+      "countryCode": "RU",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "modernTalker",
+        "url": "https://github.com/modernTalker"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=AlQ_EUEAAAAJ"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Yandex Research",
+      "position": "ML Researcher",
+      "url": "",
+      "startDate": "2025-07-01",
+      "endDate": "",
+      "summary": "ML Research Residency, Moscow",
+      "highlights": [
+        "Spearheading research on asynchronous pipeline parallelism for efficient large-scale model training.",
+        "Designing and analyzing novel algorithms for highly distributed systems to enhance scalability and performance."
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Laboratory of Mathematical Methods for Optimization, MIPT",
+      "position": "ML Researcher",
+      "url": "",
+      "startDate": "2024-02-01",
+      "endDate": "",
+      "summary": "Moscow",
+      "highlights": [
+        "Pioneered memory-efficient zeroth-order optimization methods for fine-tuning LLMs, achieving a 50% reduction in memory footprint.",
+        "Developed and theoretically analyzed novel stochastic and zeroth-order algorithms for decentralized optimization, validated on variety of domains."
+      ]
+    },
+    {
+      "name": "Yandex",
+      "position": "ML Engineer",
+      "url": "",
+      "startDate": "2024-08-01",
+      "endDate": "2025-01-01",
+      "summary": "Personalization Quality R&D Group, Moscow",
+      "highlights": [
+        "Engineered a production pipeline integrating Vowpal Wabbit-based online features into a large-scale CatBoost model, achieving a 0.1% uplift in core ranking metrics (AUC, nDCG).",
+        "Implemented a parallelized, MapReduce-style data converter that accelerated data processing by 20x and reduced model training time from hours to minutes."
+      ]
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Moscow Institute of Physics and Technology (MIPT)",
+      "location": "Moscow",
+      "url": "",
+      "area": "Applied Mathematics and Informatics",
+      "studyType": "B.S.",
+      "startDate": "2022-09-01",
+      "endDate": "2026-06-01",
+      "score": "8.0/10.0",
+      "courses": []
+    },
+    {
+      "institution": "Data Science Track (MIPT & Yandex School of Data Analysis)",
+      "location": "Moscow",
+      "url": "",
+      "area": "Specialized curriculum in ML, DL, RL, CV, NLP, RecSys, and Time Series Analysis",
+      "studyType": "",
+      "startDate": "2024-09-01",
+      "endDate": "2026-06-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Deep Learning School",
+      "location": "Moscow",
+      "url": "",
+      "area": "Neural Networks and Computer Vision",
+      "studyType": "",
+      "startDate": "2023-09-01",
+      "endDate": "2024-06-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Yandex School of Data Analysis",
+      "location": "Moscow",
+      "url": "",
+      "area": "Machine Learning",
+      "studyType": "",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "awards": [],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Leveraging Coordinate Momentum in SignSGD and Muon: Memory-Optimized Zero-Order LLM Fine-Tuning",
+      "publisher": "ICML Workshop on Tiny Titans",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2506.04430",
+      "summary": "E. Petrov, G. Evseev, A. Antonov, A. Veprikov, P. Plyusnin, N. Bushkov, et al."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Sign-SGD is the Golden Gate between Multi-Node to Single-Node Learning...",
+      "publisher": "Submitted to ICLR",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2506.03725",
+      "summary": "D. Medyakov, S. Stanko, G. Molodtsov, P. Zmushko, G. Evseev, E. Petrov, et al."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "When Extragradient Meets PAGE: Bridging Two Giants to Boost Variational Inequalities",
+      "publisher": "Conference on Uncertainty in Artificial Intelligence (UAI)",
+      "releaseDate": "2025",
+      "url": "https://openreview.net/pdf?id=ySzunfsuG1",
+      "summary": "G. Molodtsov, V. Parfenov, E. Petrov, E. Grigoriy, D. Medyakov, A. Beznosikov."
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "Shuffling Heuristic in Variational Inequalities: Establishing New Convergence Guarantees",
+      "publisher": "ICOMP 2024. Submitted to Q1 Journal JOTA",
+      "releaseDate": "2024",
+      "url": "https://openreview.net/pdf?id=V14SoT0m2q",
+      "summary": "D. Medyakov, G. Molodtsov, E. Grigoriy, E. Petrov, A. Beznosikov. Awarded 1st place at Neuroinformatics 2024."
+    },
+    {
+      "name": "Zero Order Algorithm for Decentralized Optimization Problems",
+      "publisher": "AI Journey 2024. Published in Doklady Mathematics",
+      "releaseDate": "2024",
+      "url": "https://link.springer.com/article/10.1134/S1064562424602336",
+      "summary": "A. Veprikov, E. Petrov, G. Evseev, A. Beznosikov."
+    },
+    {
+      "name": "Sampling of Semi-Orthogonal Matrices for the Muon Algorithm",
+      "publisher": "Submitted to Q2 Journal Doklady Mathematics",
+      "releaseDate": "",
+      "url": "",
+      "summary": "E. D. Petrov, G. V. Evseev, A. V. Antonov, A. S. Veprikov, N. A. Bushkov, S. V. Moiseev, A. N. Beznosikov."
+    },
+    {
+      "name": "Full Transformer Analysis: Loss Landscape via Hessian-based approach",
+      "publisher": "Submitted to ICLR",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "Egor Petrov, Nikita Kiselev, Vladislav Meshkov, Artem Nikitin, Andrey Grabovoy."
     }
   ],
+  "skills": [],
+  "languages": [],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Efficient Deep Learning",
+      "icon": "",
+      "keywords": []
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Optimization",
+      "icon": "",
+      "keywords": []
+    },
+    {
+      "name": "Theory of Learning",
+      "icon": "",
+      "keywords": []
+    },
+    {
+      "name": "Scaling Laws",
+      "icon": "",
+      "keywords": []
     }
   ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Lead Developer, ZO-Library",
+      "summary": "Engineered a comprehensive open-source library for zeroth-order (ZO) optimization, implementing a wide range of state-of-the-art algorithms. Designed with a user-friendly, torch.optim-style API for seamless integration into existing ML pipelines.",
+      "highlights": ["GitHub & Publication Forthcoming"],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Teaching Assistant & Mentor",
+      "summary": "Mentored undergraduate students in Algorithms, Data Structures (MIPT), and Introduction to AI (Central University), leading project-based learning and providing technical guidance.",
+      "highlights": ["2024 – Present"],
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "url": ""
     }
   ]
 }
