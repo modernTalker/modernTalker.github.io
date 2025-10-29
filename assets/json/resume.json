@@ -158,11 +158,11 @@
       "summary": "E. D. Petrov, G. V. Evseev, A. V. Antonov, A. S. Veprikov, N. A. Bushkov, S. V. Moiseev, A. N. Beznosikov."
     },
     {
-      "name": "Full Transformer Analysis: Loss Landscape via Hessian-based approach",
+      "name": "Closing the Curvature Gap: Full Transformer Hessians and Their Implications for Scaling Laws",
       "publisher": "Submitted to ICLR",
       "releaseDate": "2026",
-      "url": "",
-      "summary": "Egor Petrov, Nikita Kiselev, Vladislav Meshkov, Artem Nikitin, Andrey Grabovoy."
+      "url": "https://www.arxiv.org/abs/2510.16927",
+      "summary": "Egor Petrov, Nikita Kiselev, Vladislav Meshkov, Andrey Grabovoy."
     }
   ],
   "skills": [],
