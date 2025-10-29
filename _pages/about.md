@@ -42,7 +42,4 @@ My research began under the supervision of [Alexander Beznosikov](https://schola
 
 My bachelor thesis, supervised by [Andrey Grabovoy](https://scholar.google.com/citations?user=ZtI9pgsAAAAJ&hl), provides the first complete analytical Hessian for **LayerNorm** and **feedforward sublayers**, completing the second-order characterization of the **full Transformer block**.
 
-Currently, at [Yandex Research](https://research.yandex.com/) under [Artem Babenko](https://scholar.google.com/citations?user=2Kv3JP0AAAAJ&hl), and in collaboration with [Samuel Horváth](https://scholar.google.com/citations?user=k252J7kAAAAJ&hl), I work on two projects:
-
-- **Asynchronous Pipeline Parallelism**: Extending PipeDream-2BW with theoretical guarantees under gradient delay, achieving stable convergence even at non-extreme data-to-model ratios (e.g., 1–2× Chinchilla scale), where delay effects are more pronounced.
-- **Distributed Multi-Cluster Learning**: Building on DiLoco/MuLoco to design communication-efficient outer-loop strategies that mitigate performance degradation under infrequent synchronization.
+Currently, at [Yandex Research](https://research.yandex.com/) under [Artem Babenko](https://scholar.google.com/citations?user=2Kv3JP0AAAAJ&hl), and in collaboration with [Samuel Horváth](https://scholar.google.com/citations?user=k252J7kAAAAJ&hl), I work on **Asynchronous Pipeline Parallelism** and **Distributed Multi-Cluster Learning**.
