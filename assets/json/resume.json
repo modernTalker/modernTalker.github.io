@@ -35,9 +35,7 @@
       "startDate": "2025-07-01",
       "endDate": "",
       "summary": "Research Residency, Moscow",
-      "highlights": [
-        "Spearheading research on asynchronous optimization for efficient model training."
-      ]
+      "highlights": ["Spearheading research on asynchronous optimization for efficient model training."]
     },
     {
       "name": "BRAIn Laboratory, MIRIAI",
