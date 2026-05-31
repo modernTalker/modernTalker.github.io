@@ -32,15 +32,15 @@ nav_order: 6
 **Position:** Teaching Assistant  
 **Duration:** January 2025 – Present
 
-**Department/Team:** "Introduction to AI" program, "Scientific Studio" and "Python"
+**Department/Team:** "Scientific Studio" and "Python"
 **Project:** Teaching and grading assignments  
-**Subjects:** Introduction to AI, Scientific Studio, Python (for Master Students)
+**Subjects:** Scientific Studio, Python (for Master Students)
 
 **Responsibilities:**
 
-- Hold consultations and grade homework for the "Introduction to AI" and "Python" courses.
+- Hold consultations and grade homework for the "Python" courses.
 - Supervise student projects within the "Scientific Studio".
-- Hold consultations, grade homework, and supervise projects for the Python course (same duties as Introduction to AI).
+- Hold consultations, grade homework, and supervise projects for the Python course.
 
 **Achievements:**
 

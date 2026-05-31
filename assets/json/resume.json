@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Egor Petrov",
-    "label": "Machine Learning Researcher",
+    "label": "Researcher",
     "image": "",
     "email": "petrov.egor.d@phystech.edu",
     "phone": "",
     "url": "https://moderntalker.github.io",
-    "summary": "Machine Learning Research Resident at Yandex Research. Research on efficient deep learning, scaling laws, optimization, and large-scale training systems.",
+    "summary": " Research Resident at Yandex Research. Research on efficient learning and optimization.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,31 +30,30 @@
   "work": [
     {
       "name": "Yandex Research",
-      "position": "ML Researcher",
+      "position": "Research Resident",
       "url": "",
       "startDate": "2025-07-01",
       "endDate": "",
-      "summary": "ML Research Residency, Moscow",
+      "summary": "Research Residency, Moscow",
       "highlights": [
-        "Spearheading research on asynchronous pipeline parallelism for efficient large-scale model training.",
-        "Designing and analyzing novel algorithms for highly distributed systems to enhance scalability and performance."
+        "Spearheading research on asynchronous optimization for efficient model training."
       ]
     },
     {
-      "name": "Laboratory of Mathematical Methods for Optimization, MIPT",
-      "position": "ML Researcher",
+      "name": "BRAIn Laboratory, MIRIAI",
+      "position": "Researcher",
       "url": "",
       "startDate": "2024-02-01",
       "endDate": "",
       "summary": "Moscow",
       "highlights": [
-        "Pioneered memory-efficient zeroth-order optimization methods for fine-tuning LLMs, achieving a 50% reduction in memory footprint.",
+        "Pioneered memory-efficient zeroth-order optimization methods for fine-tuning, achieving a 50% reduction in memory footprint.",
         "Developed and theoretically analyzed novel stochastic and zeroth-order algorithms for decentralized optimization, validated on variety of domains."
       ]
     },
     {
       "name": "Yandex",
-      "position": "ML Engineer",
+      "position": "Developer",
       "url": "",
       "startDate": "2024-08-01",
       "endDate": "2025-01-01",
@@ -71,7 +70,7 @@
       "institution": "Moscow Institute of Physics and Technology (MIPT)",
       "location": "Moscow",
       "url": "",
-      "area": "Applied Mathematics and Informatics",
+      "area": "Applied Mathematics and Computer Science",
       "studyType": "B.S.",
       "startDate": "2022-09-01",
       "endDate": "2026-06-01",
@@ -82,32 +81,10 @@
       "institution": "Data Science Track (MIPT & Yandex School of Data Analysis)",
       "location": "Moscow",
       "url": "",
-      "area": "Specialized curriculum in ML, DL, RL, CV, NLP, RecSys, and Time Series Analysis",
+      "area": "Specialized curriculum in Data Science",
       "studyType": "",
       "startDate": "2024-09-01",
       "endDate": "2026-06-01",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Deep Learning School",
-      "location": "Moscow",
-      "url": "",
-      "area": "Neural Networks and Computer Vision",
-      "studyType": "",
-      "startDate": "2023-09-01",
-      "endDate": "2024-06-30",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Yandex School of Data Analysis",
-      "location": "Moscow",
-      "url": "",
-      "area": "Machine Learning",
-      "studyType": "",
-      "startDate": "2025-01-01",
-      "endDate": "",
       "score": "",
       "courses": []
     }
@@ -116,7 +93,7 @@
   "certificates": [],
   "publications": [
     {
-      "name": "Leveraging Coordinate Momentum in SignSGD and Muon: Memory-Optimized Zero-Order LLM Fine-Tuning",
+      "name": "Leveraging Coordinate Momentum in SignSGD and Muon:...",
       "publisher": "ICML Workshop on Tiny Titans",
       "releaseDate": "2025",
       "url": "https://arxiv.org/abs/2506.04430",
@@ -124,7 +101,7 @@
     },
     {
       "name": "Sign-SGD is the Golden Gate between Multi-Node to Single-Node Learning...",
-      "publisher": "Submitted to ICLR",
+      "publisher": "ICLR",
       "releaseDate": "2026",
       "url": "https://arxiv.org/abs/2506.03725",
       "summary": "D. Medyakov, S. Stanko, G. Molodtsov, P. Zmushko, G. Evseev, E. Petrov, et al."
@@ -159,7 +136,7 @@
     },
     {
       "name": "Closing the Curvature Gap: Full Transformer Hessians and Their Implications for Scaling Laws",
-      "publisher": "Submitted to ICLR",
+      "publisher": "Submitted to COLT",
       "releaseDate": "2026",
       "url": "https://www.arxiv.org/abs/2510.16927",
       "summary": "Egor Petrov, Nikita Kiselev, Vladislav Meshkov, Andrey Grabovoy."
@@ -169,7 +146,7 @@
   "languages": [],
   "interests": [
     {
-      "name": "Efficient Deep Learning",
+      "name": "Efficient Learning",
       "icon": "",
       "keywords": []
     },
@@ -180,11 +157,6 @@
     },
     {
       "name": "Theory of Learning",
-      "icon": "",
-      "keywords": []
-    },
-    {
-      "name": "Scaling Laws",
       "icon": "",
       "keywords": []
     }
@@ -201,7 +173,7 @@
     },
     {
       "name": "Teaching Assistant & Mentor",
-      "summary": "Mentored undergraduate students in Algorithms, Data Structures (MIPT), and Introduction to AI (Central University), leading project-based learning and providing technical guidance.",
+      "summary": "Mentored undergraduate students in Algorithms, Data Structures (MIPT), and Scientific Studio (Central University), leading project-based learning and providing technical guidance.",
       "highlights": ["2024 – Present"],
       "startDate": "2024-01-01",
       "endDate": "",

@@ -38,8 +38,8 @@ Today, these threads converge in my work on **asynchronous pipeline parallelism*
 
 <a href="/publications/">Publications</a> • <a href="/projects/">Projects</a> • <a href="https://github.com/modernTalker/zero-order-optimization/tree/dev">ZO-Library</a> -->
 
-My research began under the supervision of [Alexander Beznosikov](https://scholar.google.com/citations?user=hVVJR-sAAAAJ&hl), where I developed algorithms for **variational inequalities** and **parameter-free optimization**, then shifted to **memory-efficient and zeroth-order (ZO) methods**. These contributions led to the development of [**ZO-Library**](https://github.com/modernTalker/zero-order-optimization/tree/dev)—a PyTorch-style open-source framework for ZO optimization in LLM fine-tuning.
+My research began under the supervision of [Alexander Beznosikov](https://scholar.google.com/citations?user=hVVJR-sAAAAJ&hl), where I developed algorithms for **variational inequalities** and **parameter-free optimization**, then shifted to **memory-efficient and zeroth-order (ZO) methods**. These contributions led to the development of [**ZO-Library**](https://github.com/modernTalker/zero-order-optimization/tree/dev)—a PyTorch-style open-source framework for ZO optimization in fine-tuning.
 
 My bachelor thesis, supervised by [Andrey Grabovoy](https://scholar.google.com/citations?user=ZtI9pgsAAAAJ&hl), provides the first complete analytical Hessian for **LayerNorm** and **feedforward sublayers**, completing the second-order characterization of the **full Transformer block**.
 
-Currently, at [Yandex Research](https://research.yandex.com/) under [Artem Babenko](https://scholar.google.com/citations?user=2Kv3JP0AAAAJ&hl), and in collaboration with [Samuel Horváth](https://scholar.google.com/citations?user=k252J7kAAAAJ&hl), I work on **Asynchronous Pipeline Parallelism** and **Distributed Multi-Cluster Learning**.
+Currently, at [Yandex Research](https://research.yandex.com/) under [Artem Babenko](https://scholar.google.com/citations?user=2Kv3JP0AAAAJ&hl), and in collaboration with [Samuel Horváth](https://scholar.google.com/citations?user=k252J7kAAAAJ&hl), I work on **Asynchronous Optimization**.
