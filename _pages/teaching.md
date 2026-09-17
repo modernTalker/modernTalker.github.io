@@ -7,6 +7,26 @@ nav: true
 nav_order: 6
 ---
 
+### Central University
+
+**Position:** Teaching Assistant  
+**Duration:** January 2025 – June 2026
+
+**Department/Team:** "Introduction to AI", "Scientific Studio" and "Python for Data Analysis"  
+**Subjects:** Introduction to AI, Scientific Studio, Python for Data Analysis (for Master students)
+
+**Responsibilities:**
+
+- Hold consultations and grade homework for the "Introduction to AI" and "Python for Data Analysis" courses.
+- Supervise and mentor student research projects within the "Scientific Studio".
+
+**Achievements:**
+
+- Enhanced the quality of feedback, improving students' understanding of the material.
+- Prepared students for participation in scientific conferences and presentation of selected papers.
+
+**Tech Stack:** PyTorch, Pandas, Numpy, Sklearn, Matplotlib
+
 ### Department of Algorithms and Programming Technologies, MIPT
 
 **Position:** Teaching Assistant  
@@ -26,25 +46,3 @@ nav_order: 6
 - Students achieved excellent grades in evaluations.
 
 **Tech Stack:** Python, C++, algorithms and data structures
-
-### Central University
-
-**Position:** Teaching Assistant  
-**Duration:** January 2025 – Present
-
-**Department/Team:** "Scientific Studio" and "Python"
-**Project:** Teaching and grading assignments  
-**Subjects:** Scientific Studio, Python (for Master Students)
-
-**Responsibilities:**
-
-- Hold consultations and grade homework for the "Python" courses.
-- Supervise student projects within the "Scientific Studio".
-- Hold consultations, grade homework, and supervise projects for the Python course.
-
-**Achievements:**
-
-- Enhanced the quality of feedback, improving students' understanding of the material.
-- Prepared students for participation in scientific conferences and presentation of selected papers.
-
-**Tech Stack:** PyTorch, Pandas, Numpy, Sklearn, Matplotlib

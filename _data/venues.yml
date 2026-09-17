@@ -1,9 +1,26 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"ICML":
+  url: https://icml.cc/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICML-W":
+  url: https://icml.cc/
+  color: "#3a6ea5"
 
-"Vision":
+"ICLR":
+  url: https://iclr.cc/
+  color: "#9f3600"
+
+"UAI":
+  url: https://www.auai.org/
   color: "#009f36"
+
+"ICOMP":
+  color: "#6a3d9a"
+
+"Doklady":
+  url: https://www.springer.com/journal/11472
+  color: "#7a7a7a"
+
+"Preprint":
+  url: https://arxiv.org/
+  color: "#b31b1b"

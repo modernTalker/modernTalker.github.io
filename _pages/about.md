@@ -2,14 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning Researcher at Yandex Research
+subtitle: PhD Student in Computer Science at Columbia University
 
 profile:
   align: right
   image: photo1_crop.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Research Residency, Yandex Research</p>
+    <p>DAP Lab, Columbia University</p>
+    <p>New York, NY</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -37,8 +38,12 @@ Today, these threads converge in my work on **asynchronous pipeline parallelism*
 
 <a href="/publications/">Publications</a> • <a href="/projects/">Projects</a> • <a href="https://github.com/modernTalker/zero-order-optimization/tree/dev">ZO-Library</a> -->
 
+I work on **efficient large-scale LLM training**—pretraining and post-training—with a focus on **parallelism**, **optimization**, and **scaling laws**.
+
 My research began under the supervision of [Alexander Beznosikov](https://scholar.google.com/citations?user=hVVJR-sAAAAJ&hl), where I developed algorithms for **variational inequalities** and **parameter-free optimization**, then shifted to **memory-efficient and zeroth-order (ZO) methods**. These contributions led to the development of [**ZO-Library**](https://github.com/modernTalker/zero-order-optimization/tree/dev)—a PyTorch-style open-source framework for ZO optimization in fine-tuning.
 
 My bachelor thesis, supervised by [Andrey Grabovoy](https://scholar.google.com/citations?user=ZtI9pgsAAAAJ&hl), provides the first complete analytical Hessian for **LayerNorm** and **feedforward sublayers**, completing the second-order characterization of the **full Transformer block**.
 
-Currently, at [Yandex Research](https://research.yandex.com/) under [Artem Babenko](https://scholar.google.com/citations?user=2Kv3JP0AAAAJ&hl), and in collaboration with [Samuel Horváth](https://scholar.google.com/citations?user=k252J7kAAAAJ&hl), I work on **Asynchronous Optimization**.
+At [Yandex Research](https://research.yandex.com/) under [Artem Babenko](https://scholar.google.com/citations?user=2Kv3JP0AAAAJ&hl), and in collaboration with [Samuel Horváth](https://scholar.google.com/citations?user=k252J7kAAAAJ&hl), I worked on **asynchronous pipeline parallelism** for large-scale LLM pretraining, showing that a **one-step gradient delay is not a barrier** at scale (ICML 2026). I am now extending this line towards **hyperparameter transfer and scaling laws** for asynchronous pretraining.
+
+Currently, I am a PhD student at **Columbia University**, in the **DAP Lab**, working on **post-training efficiency**: the **optimization dynamics of RL post-training (RLVR)**—how optimizer behavior and the loss landscape change relative to pretraining—and **staleness mitigation for asynchronous post-training** with parallel rollout generation, where algorithms and systems have to be co-designed to keep GPUs busy.
