@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Egor Petrov",
-    "label": "Researcher",
+    "label": "PhD Student in Computer Science, Columbia University",
     "image": "",
-    "email": "petrov.egor.d@phystech.edu",
+    "email": "edprussia@gmail.com",
     "phone": "",
     "url": "https://moderntalker.github.io",
-    "summary": " Research Resident at Yandex Research. Research on efficient learning and optimization.",
+    "summary": "PhD student at Columbia University (DAP Lab), advised by Eugene Wu and Kostis Kaffes. Research on efficient large-scale LLM training: pretraining and post-training, parallelisms, optimization, and scaling laws.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Moscow",
-      "countryCode": "RU",
-      "region": ""
+      "city": "New York",
+      "countryCode": "US",
+      "region": "NY"
     },
     "profiles": [
       {
@@ -29,94 +29,184 @@
   },
   "work": [
     {
-      "name": "Yandex Research",
-      "position": "Research Resident",
-      "url": "",
-      "startDate": "2025-07-01",
+      "name": "DAP Lab, Columbia University",
+      "position": "PhD Researcher, Post-Training Efficiency",
+      "url": "https://daplab.cs.columbia.edu/",
+      "startDate": "2026-09-01",
       "endDate": "",
-      "summary": "Research Residency, Moscow",
-      "highlights": ["Spearheading research on asynchronous optimization for efficient model training."]
+      "location": "New York, NY",
+      "summary": "Advised by Eugene Wu and Kostis Kaffes.",
+      "highlights": [
+        "Studying optimization dynamics in RL post-training (RLVR): benchmarking optimizer behavior and loss-landscape changes relative to pretraining, and their effect on downstream tasks.",
+        "Developing staleness-mitigation methods for asynchronous post-training with parallel rollout generation, co-designing algorithms and systems to maximize GPU throughput."
+      ]
     },
     {
-      "name": "BRAIn Laboratory, MIRIAI",
-      "position": "Researcher",
+      "name": "Yandex Research",
+      "position": "ML Researcher, Pretraining",
+      "url": "https://research.yandex.com/",
+      "startDate": "2025-07-01",
+      "endDate": "2026-08-01",
+      "location": "Moscow",
+      "summary": "",
+      "highlights": [
+        "Led research on asynchronous pipeline parallelism for efficient large-scale LLM pretraining; first-author paper accepted to ICML 2026.",
+        "Designed and analyzed novel algorithms for distributed training systems, improving scalability and hardware utilization."
+      ]
+    },
+    {
+      "name": "Basic Research in AI Laboratory (BRAIn Lab)",
+      "position": "ML Researcher",
       "url": "",
       "startDate": "2024-02-01",
-      "endDate": "",
-      "summary": "Moscow",
+      "endDate": "2026-08-01",
+      "location": "Moscow",
+      "summary": "",
       "highlights": [
-        "Pioneered memory-efficient zeroth-order optimization methods for fine-tuning, achieving a 50% reduction in memory footprint.",
-        "Developed and theoretically analyzed novel stochastic and zeroth-order algorithms for decentralized optimization, validated on variety of domains."
+        "Pioneered memory-efficient zeroth-order optimization methods for LLM fine-tuning, achieving a 50% reduction in memory footprint (ICML Workshop 2025).",
+        "Developed and theoretically analyzed novel stochastic and zeroth-order algorithms for decentralized optimization, validated across multiple domains (UAI 2025, ICLR 2026).",
+        "Derived a full second-order (Hessian) characterization of the Transformer block with implications for scaling laws."
       ]
+    },
+    {
+      "name": "Central University",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2025-01-01",
+      "endDate": "2026-06-01",
+      "location": "Moscow",
+      "summary": "Introduction to AI, Scientific Studio, Python for Data Analysis.",
+      "highlights": ["Held consultations, graded assignments, and mentored student research projects."]
     },
     {
       "name": "Yandex",
-      "position": "Developer",
+      "position": "ML Engineer, Personalization Quality R&D Group",
       "url": "",
       "startDate": "2024-08-01",
       "endDate": "2025-01-01",
-      "summary": "Personalization Quality R&D Group, Moscow",
+      "location": "Moscow",
+      "summary": "",
       "highlights": [
         "Engineered a production pipeline integrating Vowpal Wabbit-based online features into a large-scale CatBoost model, achieving a 0.1% uplift in core ranking metrics (AUC, nDCG).",
-        "Implemented a parallelized, MapReduce-style data converter that accelerated data processing by 20x and reduced model training time from hours to minutes."
+        "Implemented a parallelized, MapReduce-style data converter that accelerated data processing by 20x, reducing model training time from hours to minutes."
       ]
+    },
+    {
+      "name": "Moscow Institute of Physics and Technology (MIPT)",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2024-09-01",
+      "endDate": "2025-06-01",
+      "location": "Moscow",
+      "summary": "Algorithms and Data Structures.",
+      "highlights": ["Held consultations and graded assignments for the Department of Algorithms and Programming Technologies."]
     }
   ],
   "volunteer": [],
   "education": [
     {
+      "institution": "Columbia University",
+      "location": "New York, NY",
+      "url": "https://www.cs.columbia.edu/",
+      "area": "Computer Science",
+      "studyType": "PhD",
+      "startDate": "2026-09-01",
+      "endDate": "2031-05-01",
+      "score": "",
+      "courses": ["SEAS Graduate Student Fellowship.", "Expected graduation: May 2031."]
+    },
+    {
       "institution": "Moscow Institute of Physics and Technology (MIPT)",
       "location": "Moscow",
       "url": "",
-      "area": "Applied Mathematics and Computer Science",
+      "area": "Applied Mathematics and Physics",
       "studyType": "B.S.",
       "startDate": "2022-09-01",
       "endDate": "2026-06-01",
-      "score": "8.0/10.0",
-      "courses": []
-    },
-    {
-      "institution": "Data Science Track (MIPT & Yandex School of Data Analysis)",
-      "location": "Moscow",
-      "url": "",
-      "area": "Specialized curriculum in Data Science",
-      "studyType": "",
-      "startDate": "2024-09-01",
-      "endDate": "2026-06-01",
       "score": "",
-      "courses": []
+      "courses": ["Data Science Track (MIPT & Yandex School of Data Analysis).", "ML, DL, RL, CV, NLP, RecSys, Bayesian Statistics, Time Series."]
     }
   ],
-  "awards": [],
+  "awards": [
+    {
+      "title": "SEAS Graduate Student Fellowship",
+      "date": "2026",
+      "awarder": "Columbia University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "B. T. Polyak Scholarship",
+      "date": "2025",
+      "awarder": "Awarded for contributions to numerical optimization methods",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Best Student Paper",
+      "date": "2024",
+      "awarder": "Neuroinformatics 2024",
+      "url": "",
+      "summary": "For \"Shuffling Heuristic in Variational Inequalities: Establishing New Convergence Guarantees\"."
+    },
+    {
+      "title": "Increased State Academic Scholarship",
+      "date": "2024",
+      "awarder": "Moscow Institute of Physics and Technology (MIPT)",
+      "url": "",
+      "summary": "Held 2024-2026."
+    }
+  ],
   "certificates": [],
   "publications": [
     {
-      "name": "Leveraging Coordinate Momentum in SignSGD and Muon:...",
-      "publisher": "ICML Workshop on Tiny Titans",
-      "releaseDate": "2025",
-      "url": "https://arxiv.org/abs/2506.04430",
-      "summary": "E. Petrov, G. Evseev, A. Antonov, A. Veprikov, P. Plyusnin, N. Bushkov, et al."
+      "name": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
+      "publisher": "ICML 2026",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2606.30634",
+      "summary": "P. Zmushko*, E. Petrov*, N. Abdullaev, M. Khrushchev, S. Horváth. (* equal contribution)"
     },
     {
-      "name": "Sign-SGD is the Golden Gate between Multi-Node to Single-Node Learning...",
-      "publisher": "ICLR",
+      "name": "Sign-SGD is the Golden Gate between Multi-Node and Single-Node Learning",
+      "publisher": "ICLR 2026",
       "releaseDate": "2026",
       "url": "https://arxiv.org/abs/2506.03725",
       "summary": "D. Medyakov, S. Stanko, G. Molodtsov, P. Zmushko, G. Evseev, E. Petrov, et al."
     },
     {
-      "name": "When Extragradient Meets PAGE: Bridging Two Giants to Boost Variational Inequalities",
-      "publisher": "Conference on Uncertainty in Artificial Intelligence (UAI)",
+      "name": "Leveraging Coordinate Momentum in SignSGD and Muon: Memory-Optimized Zero-Order LLM Fine-Tuning",
+      "publisher": "ICML Workshop on Tiny Titans, 2025",
       "releaseDate": "2025",
-      "url": "https://openreview.net/pdf?id=ySzunfsuG1",
+      "url": "https://arxiv.org/abs/2506.04430",
+      "summary": "E. Petrov, G. Evseev, A. Antonov, A. Veprikov, P. Plyusnin, N. Bushkov, et al."
+    },
+    {
+      "name": "When Extragradient Meets PAGE: Bridging Two Giants to Boost Variational Inequalities",
+      "publisher": "UAI 2025",
+      "releaseDate": "2025",
+      "url": "https://openreview.net/forum?id=ySzunfsuG1",
       "summary": "G. Molodtsov, V. Parfenov, E. Petrov, E. Grigoriy, D. Medyakov, A. Beznosikov."
     },
     {
+      "name": "Sampling of Semi-Orthogonal Matrices for the Muon Algorithm",
+      "publisher": "AI Journey 2025. Published in Doklady Mathematics",
+      "releaseDate": "2025",
+      "url": "https://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=danma&paperid=680&option_lang=eng",
+      "summary": "E. Petrov, G. Evseev, A. Antonov, A. Veprikov, N. Bushkov, S. Moiseev, A. Beznosikov."
+    },
+    {
+      "name": "Closing the Curvature Gap: Full Transformer Hessians and Their Implications for Scaling Laws",
+      "publisher": "Submitted to NeurIPS 2026",
+      "releaseDate": "2025",
+      "url": "https://www.arxiv.org/abs/2510.16927",
+      "summary": "E. Petrov, N. Kiselev, V. Meshkov, A. Grabovoy."
+    },
+    {
       "name": "Shuffling Heuristic in Variational Inequalities: Establishing New Convergence Guarantees",
-      "publisher": "ICOMP 2024. Submitted to Q1 Journal JOTA",
+      "publisher": "ICOMP 2024. Submitted to JOTA (Q1)",
       "releaseDate": "2024",
       "url": "https://openreview.net/pdf?id=V14SoT0m2q",
-      "summary": "D. Medyakov, G. Molodtsov, E. Grigoriy, E. Petrov, A. Beznosikov. Awarded 1st place at Neuroinformatics 2024."
+      "summary": "D. Medyakov, G. Molodtsov, E. Grigoriy, E. Petrov, A. Beznosikov. Best student paper, Neuroinformatics 2024."
     },
     {
       "name": "Zero Order Algorithm for Decentralized Optimization Problems",
@@ -124,56 +214,110 @@
       "releaseDate": "2024",
       "url": "https://link.springer.com/article/10.1134/S1064562424602336",
       "summary": "A. Veprikov, E. Petrov, G. Evseev, A. Beznosikov."
-    },
-    {
-      "name": "Sampling of Semi-Orthogonal Matrices for the Muon Algorithm",
-      "publisher": "Submitted to Q2 Journal Doklady Mathematics",
-      "releaseDate": "",
-      "url": "",
-      "summary": "E. D. Petrov, G. V. Evseev, A. V. Antonov, A. S. Veprikov, N. A. Bushkov, S. V. Moiseev, A. N. Beznosikov."
-    },
-    {
-      "name": "Closing the Curvature Gap: Full Transformer Hessians and Their Implications for Scaling Laws",
-      "publisher": "Submitted to COLT",
-      "releaseDate": "2026",
-      "url": "https://www.arxiv.org/abs/2510.16927",
-      "summary": "Egor Petrov, Nikita Kiselev, Vladislav Meshkov, Andrey Grabovoy."
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "C++", "SQL"]
+    },
+    {
+      "name": "ML / DL",
+      "level": "",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["PyTorch", "Transformers (HF)", "NumPy", "Pandas", "Scikit-learn", "TensorFlow"]
+    },
+    {
+      "name": "Distributed Training",
+      "level": "",
+      "icon": "fa-solid fa-microchip",
+      "keywords": ["Data / tensor / pipeline / sequence / expert parallelism", "FSDP-style sharding", "Memory-efficient optimizers"]
+    },
+    {
+      "name": "Tools & Infrastructure",
+      "level": "",
+      "icon": "fa-solid fa-screwdriver-wrench",
+      "keywords": ["Git", "Docker", "Apache Hadoop", "Kafka", "Airflow", "Vowpal Wabbit", "CMake"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent (TOEFL 102)",
+      "icon": ""
+    }
+  ],
   "interests": [
     {
-      "name": "Efficient Learning",
-      "icon": "",
-      "keywords": []
+      "name": "Efficient Large-Scale LLM Training",
+      "icon": "fa-solid fa-layer-group",
+      "keywords": ["Pretraining", "Post-training", "Parallelisms", "Scaling laws"]
     },
     {
       "name": "Optimization",
-      "icon": "",
-      "keywords": []
+      "icon": "fa-solid fa-chart-line",
+      "keywords": ["Optimizer design", "Memory-efficient and zeroth-order methods", "Loss landscapes"]
     },
     {
-      "name": "Theory of Learning",
-      "icon": "",
-      "keywords": []
+      "name": "Algorithm-Systems Co-Design",
+      "icon": "fa-solid fa-server",
+      "keywords": ["Asynchronous pipeline parallelism", "RL post-training (RLVR)", "GPU throughput"]
     }
   ],
   "references": [],
   "projects": [
     {
-      "name": "Lead Developer, ZO-Library",
-      "summary": "Engineered a comprehensive open-source library for zeroth-order (ZO) optimization, implementing a wide range of state-of-the-art algorithms. Designed with a user-friendly, torch.optim-style API for seamless integration into existing ML pipelines.",
-      "highlights": ["GitHub & Publication Forthcoming"],
+      "name": "ZO-Library, Lead Developer",
+      "summary": "Open-source library of state-of-the-art zeroth-order optimization algorithms with a torch.optim-style API, enabling memory-efficient fine-tuning with up to 50% memory reduction.",
+      "highlights": ["Related paper: Leveraging Coordinate Momentum in SignSGD and Muon (ICML Workshop on Tiny Titans, 2025)."],
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "url": "https://github.com/modernTalker/zero-order-optimization/tree/dev"
+    },
+    {
+      "name": "Aboba, Maintainer",
+      "summary": "Python library for A/B testing: statistical tests plus CUPED and linearization via an intuitive API.",
+      "highlights": [],
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "url": "https://ab-alexroar-8e192a9a66171262804e0b0f9c942db31bc9c224aebd3d3d415.gitlab.io/"
+    },
+    {
+      "name": "Rethinking Memory-Efficient Optimizers for LLM Pre-Training",
+      "summary": "Systematic study of structured optimizer-state compression vs. state quantization under matched memory budgets; peak-memory and communication analysis of optimizer states under sharding (FSDP-style).",
+      "highlights": ["In submission to ICLR 2027."],
       "startDate": "",
       "endDate": "",
       "url": ""
     },
     {
-      "name": "Teaching Assistant & Mentor",
-      "summary": "Mentored undergraduate students in Algorithms, Data Structures (MIPT), and Scientific Studio (Central University), leading project-based learning and providing technical guidance.",
-      "highlights": ["2024 – Present"],
-      "startDate": "2024-01-01",
+      "name": "Hyperparameter Transfer and Scaling Laws for Asynchronous Pretraining",
+      "summary": "Theoretical and practical transfer rules (learning rate, momentum, batch size, weight decay) and scaling laws in models and tokens for asynchronous pipeline-parallel training; extends our ICML 2026 results.",
+      "highlights": ["Experiments in progress."],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Optimization in RL Post-Training (RLVR)",
+      "summary": "Benchmarking optimizer behavior, loss-landscape changes, and downstream-task effects when moving from pretraining to RL post-training.",
+      "highlights": ["Early stage."],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Asynchronous Post-Training",
+      "summary": "Mitigating policy staleness from parallel rollout generation; algorithm-systems co-design for maximizing GPU throughput in RL post-training.",
+      "highlights": ["Early stage."],
+      "startDate": "",
       "endDate": "",
       "url": ""
     }
