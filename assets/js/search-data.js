@@ -394,7 +394,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-zo-library",
+          section: "News",},{id: "projects-aboba",
+          title: 'Aboba',
+          description: "Python library for A/B testing with CUPED and linearization",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/aboba/";
+            },},{id: "projects-zo-library",
           title: 'ZO-Library',
           description: "Open-source library for memory-efficient zero-order optimization",
           section: "Projects",handler: () => {
@@ -404,7 +409,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%6F%64%65%72%6E%74%61%6C%6B%65%72@%79%61%6E%64%65%78-%74%65%61%6D.%72%75", "_blank");
+          window.open("mailto:%65%64%70%72%75%73%73%69%61@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
