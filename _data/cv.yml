@@ -7,6 +7,8 @@
       value: PhD Student in Computer Science, Columbia University
     - name: Location
       value: New York, NY, USA
+    - name: Advisors
+      value: <a href="https://scholar.google.com/citations?user=X53rkecAAAAJ">Eugene Wu</a> and <a href="https://scholar.google.com/citations?user=swf47vcAAAAJ">Kostis Kaffes</a>
     - name: Research Interests
       value: "Efficient large-scale LLM training: pretraining and post-training, parallelisms, optimization, scaling laws"
     - name: Languages
@@ -35,6 +37,7 @@
       institution: DAP Lab, Columbia University, New York
       year: 2026 - now
       description:
+        - Advised by <a href="https://scholar.google.com/citations?user=X53rkecAAAAJ">Eugene Wu</a> and <a href="https://scholar.google.com/citations?user=swf47vcAAAAJ">Kostis Kaffes</a>.
         - "Studying optimization dynamics in RL post-training (RLVR): benchmarking optimizer behavior and loss-landscape changes relative to pretraining, and their effect on downstream tasks."
         - Developing staleness-mitigation methods for asynchronous post-training with parallel rollout generation, co-designing algorithms and systems to maximize GPU throughput.
     - title: ML Researcher, Pretraining
